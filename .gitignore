@@ -1,0 +1,22 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Visual Studio folders
+.vs/
+
+# User-specific files
+*.user
+
+# Test results
+TestResults/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+
+# OS files
+Thumbs.db
+.DS_Store
