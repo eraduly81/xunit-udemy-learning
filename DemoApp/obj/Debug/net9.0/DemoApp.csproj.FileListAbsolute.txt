@@ -1,0 +1,12 @@
+C:\Endava\repo\xunit-udemy-learning\DemoApp\bin\Debug\net9.0\DemoApp.deps.json
+C:\Endava\repo\xunit-udemy-learning\DemoApp\bin\Debug\net9.0\DemoApp.dll
+C:\Endava\repo\xunit-udemy-learning\DemoApp\bin\Debug\net9.0\DemoApp.pdb
+C:\Endava\repo\xunit-udemy-learning\DemoApp\obj\Debug\net9.0\DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Endava\repo\xunit-udemy-learning\DemoApp\obj\Debug\net9.0\DemoApp.AssemblyInfoInputs.cache
+C:\Endava\repo\xunit-udemy-learning\DemoApp\obj\Debug\net9.0\DemoApp.AssemblyInfo.cs
+C:\Endava\repo\xunit-udemy-learning\DemoApp\obj\Debug\net9.0\DemoApp.csproj.CoreCompileInputs.cache
+C:\Endava\repo\xunit-udemy-learning\DemoApp\obj\Debug\net9.0\DemoApp.sourcelink.json
+C:\Endava\repo\xunit-udemy-learning\DemoApp\obj\Debug\net9.0\DemoApp.dll
+C:\Endava\repo\xunit-udemy-learning\DemoApp\obj\Debug\net9.0\refint\DemoApp.dll
+C:\Endava\repo\xunit-udemy-learning\DemoApp\obj\Debug\net9.0\DemoApp.pdb
+C:\Endava\repo\xunit-udemy-learning\DemoApp\obj\Debug\net9.0\ref\DemoApp.dll
